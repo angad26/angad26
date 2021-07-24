@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Angad Deep Singh
-- 👀 I’m interested in python and MATLAB
-- 🌱 I’m currently learning SQL
+- 👀 I’m interested in Python, Data Analytics
+- 🌱 I’m currently learning Pandas
 - 💞️ I’m looking to collaborate on new projects
 - 📫 Reach me on my mail angad2600@gmail.com
 
